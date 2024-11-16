@@ -1,0 +1,17 @@
+"installscript"
+{
+	"Registry"
+	{
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Rockstar Games\\GTAV"
+		{
+			"string"
+			{
+				"InstallFolderSteam"		"%INSTALLDIR%\\GTAV"
+			}
+		}
+	}
+}
+"kvsignatures"
+{
+	"installscript"		"9b2de4e20fb3474d41159e36fd09bf69cef073728b5ab86abd594942cb0821c231e55cabe071287126c4ed53d16b66448f6cefaec87286bb84ca363f400780a00d29df178eaf89a86f9ab2f9e5a1fe89f5d9138b88d4da23455670f69bd607a15e95e614be4e2571020d96c5183fa32892e2d56f44f0ad1a90cf5e0389a60cb9"
+}
